@@ -1,0 +1,1 @@
+import{o as t,c as n,d as e}from"./app.6c156f1a.js";const a='{"title":"Configuration","description":"","frontmatter":{},"relativePath":"getting-started/configuration.md","lastUpdated":1624141479826}',s={},o=e('',5);s.render=function(e,a,s,i,l,r){return t(),n("div",null,[o])};export default s;export{a as __pageData};
